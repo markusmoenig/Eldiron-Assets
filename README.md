@@ -1,6 +1,6 @@
 # Eldiron-Assets
 
-This repository contains all officially supported asset packs for [Eldiron](https://github.com/markusmoenig/Eldiron. You can use nearly every square tilemap set with Eldiron, this repository just contains the officially supported ones and their JSON integration files.
+This repository contains all officially supported asset packs for [Eldiron](https://github.com/markusmoenig/Eldiron). You can use nearly every square tilemap set with Eldiron, this repository just contains the officially supported ones and their JSON integration files.
 
 Each asset pack may have different licenses.
 
